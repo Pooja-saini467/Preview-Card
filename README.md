@@ -19,7 +19,7 @@
 <img src="https://github.com/Pooja-saini467/Preview-Card/blob/main/design/desktop-design.jpg">
 
 ## Live Link
-- Pooja-saini467()
+- Pooja-saini467(https://pooja-saini467.github.io/Preview-Card/)
 
 ## My Process
 ## Build With
